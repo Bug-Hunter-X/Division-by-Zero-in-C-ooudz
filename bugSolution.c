@@ -1,0 +1,1 @@
+int main() {int x = 10; int y = 0; if (y != 0) {int z = x / y; return z;} else {return -1; //Or handle the error appropriately} }
